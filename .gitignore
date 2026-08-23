@@ -20,6 +20,7 @@ pnpm-debug.log*
 
 # Local tool/editor state
 .openai/
+.claude/
 .cache/
 .tmp/
 temp/
@@ -29,6 +30,7 @@ temp/
 
 # Local planning and QA artifacts
 AGENTS.md
+PROJECT-GUIDE.md
 design-qa.md
 qa/
 
