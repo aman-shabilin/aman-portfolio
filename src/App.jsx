@@ -362,7 +362,7 @@ export function App() {
             >
               Contact
             </SpecularButton>
-            <a href="/resume.pdf" download className="resume-btn">
+            <a href="/Resume-Aman.pdf" download className="resume-btn">
               Resume
             </a>
           </div>
